@@ -1,1 +1,2 @@
 # sqlalchemy_challenge
+This project conducts a climate analysis on the state of Hawaii utilizing SQLite databases and Flask. An analysis on the precipitation rate and active stations in the area is conducted and a climate app is developed to provide the client with information pulled from the database. This project was completed using course material allocated from the Univeristy of California Data Analytics Program.
